@@ -1,0 +1,13 @@
+discord-message-cleaner/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── database.py
+│   ├── discord_client.py
+│   └── config.py
+├── docker/
+│   └── Dockerfile
+├── .env
+├── .gitignore
+├── docker-compose.yaml
+└── requirements.txt 
